@@ -12,7 +12,7 @@ Se publica como *prior art* para impedir patentes abusivas y permitir que cualqu
 Crear una IA que:
 - Aumente la dificultad si el jugador derrota enemigos fácilmente.
 - Adapte estrategias enemigas según los movimientos favoritos del jugador.
-- Ajuste la actitud de NPCs según el respeto ganado.
+- Ajuste la actitud de NPCs según el prestigio ganado.
 
 ---
 
